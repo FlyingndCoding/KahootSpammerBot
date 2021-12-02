@@ -10,7 +10,7 @@ var gamePin = prompt("Gamepin: (No Spaces) ") // Gamepin has to be like: //41000
 var BotName = prompt("Bot Name: (default: SUS")
 
 if (BotName == "") {
-  BotName = 'SUS' // If you don't put anything for BotName, it sets it to The Gamer3514
+  BotName = 'SUS' // If you don't put anything for BotName, it sets it to The SUS
 }
 
 
